@@ -1,2 +1,2 @@
-# killer_bean_game
+# Killer Bean
 A killer bean game built with Pygame
